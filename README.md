@@ -1,4 +1,4 @@
-# Superposition-Toronto-s-All-Female-Non-Binary-Hackathon
+# Superposition-Toronto's-All-Female-Non-Binary-Hackathon
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
