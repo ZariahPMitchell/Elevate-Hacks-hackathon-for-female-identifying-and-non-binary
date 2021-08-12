@@ -1,4 +1,4 @@
-#Elevate-Hacks-All-Female-Non-Binary-Hackathon
+##Elevate-Hacks-All-Female-Non-Binary-Hackathon
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
